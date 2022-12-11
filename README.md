@@ -2,7 +2,7 @@
 
 a simple, responsive and functional movie searching app made using ReactJS.
 
-hosted link: 
+hosted link: [https://movie-search-yb.netlify.app/](https://movie-search-yb.netlify.app/)
 
 I have made this movie search app to practice my React skills. Mainly I make web pages by only keeping in mind of large screen users(PC, TV, laptops) and forgetting about small screen users(Mobile, Tablets).
 
