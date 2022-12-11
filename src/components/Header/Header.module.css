@@ -1,4 +1,6 @@
 .header {
+  cursor: pointer;
+  user-select: none;
   width: 100%;
   background-color: #387add;
   color: whitesmoke;
