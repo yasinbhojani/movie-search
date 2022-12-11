@@ -1,0 +1,41 @@
+.movie {
+  cursor: pointer;
+  margin: 10px 10px;
+  padding: 10px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
+
+.movie .image img{
+  width: 250px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.movie .details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+.movie .details > div:nth-child(1) {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 250px;
+  font-weight: 500;
+  font-size: 1.1rem;
+  margin: .8rem 0 .5rem;
+}
+
+.movie .details > div:nth-child(2) {
+  font-size: .9rem;
+}
+
+.movie .details .badge {
+  border-radius: 4px;
+  border: 1px solid lightgray;
+  padding: 2px 5px;
+}

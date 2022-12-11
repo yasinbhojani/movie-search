@@ -1,0 +1,13 @@
+.header {
+  width: 100%;
+  background-color: #387add;
+  color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 4rem;
+}
+
+.header h1 {
+  margin: 0 1rem;
+}

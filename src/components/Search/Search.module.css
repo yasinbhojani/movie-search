@@ -1,0 +1,16 @@
+.search form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.search input {
+  min-width: 35%;
+  height: 40px
+}
+
+.search button {
+  margin: 0 20px;
+  height: 40px;
+}

@@ -1,0 +1,14 @@
+.rating {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.rating img {
+  width: 100px;
+  height: 50px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
