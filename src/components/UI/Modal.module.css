@@ -37,5 +37,10 @@
   padding: 20px;
   max-height: 80vh;
   overflow-y: scroll;
-  
+}
+
+@media only screen and (max-width: 992px) {
+  .overlay .closebtn img {
+    height: 45px;
+  }
 }

@@ -1,6 +1,5 @@
 import ReactDOM from "react-dom";
 import { useState, useContext } from "react";
-import "./App.css";
 import Results from "./components/Results/Results";
 import Search from "./components/Search/Search";
 import Loading from "./components/UI/Loading";
